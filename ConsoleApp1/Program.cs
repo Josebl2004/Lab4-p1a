@@ -18,9 +18,11 @@ class Program
         {
             //Menu principal del programa
             Console.WriteLine("--------------------------------------");
+            Console.WriteLine("--------------------------------------");
             Console.WriteLine("---------- Menu de Opciones ----------");
             Console.WriteLine("--------------------------------------");
-            Console.WriteLine("1. Crear Archivo de Inventos");
+            Console.WriteLine("--------------------------------------");
+            Console.WriteLine("1. Crear Archivo de Inventos de Tony Stark ._.");
             Console.WriteLine("2. Agregar un Invento");
             Console.WriteLine("3. Leer linea por linea los inventos");
             Console.WriteLine("4. Leer todo el contenido del archivo");
