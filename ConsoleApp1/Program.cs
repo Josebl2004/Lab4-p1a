@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string rutaLaboratorio = "LaboratorioAvengers"; 
+        string rutaLaboratorio = @"C:\\Users\\Mario\\OneDrive\\Escritorio\\LaboratorioAvengers"; 
         //Carpeta principal
         string rutaInventos = Path.Combine(rutaLaboratorio, "inventos.txt"); //archivo de inventos
         string rutaBackup = Path.Combine(rutaLaboratorio, "Backup"); //carpeta de respaldo
